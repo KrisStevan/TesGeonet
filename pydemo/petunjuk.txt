@@ -1,0 +1,11 @@
+Petunjuk Penggunaan: (langsung jalankan tanpa instalasi)
+- klik "intro.py" dahulu untuk menjalankan
+- daftar data akan muncul dengan sendirinya pada awal dibuka
+- untuk menambah data, isi semua isian yang tersedia, lalu klik "Save"
+- untuk mengubah data:
+	1. dobel klik salah satu baris pada tabel yang ingin diubah
+	2. ubah isi pada isian yang tersedia
+	3. klik tombol "Update"
+- untuk menghapus data:
+	1. dobel klik salah satu baris pada tabel yang ingin dihapus
+	2. klik tombol "Delete"
